@@ -11,12 +11,7 @@ int main()
         vec.push_back(s);
     }
 
-    if(vec.size()<=10000)
-    {
-        cout<<"SRBD"<<endl;
-    }
-    else
-        cout<<"GHOST"<<endl;
+    
 
 
     return 0;
